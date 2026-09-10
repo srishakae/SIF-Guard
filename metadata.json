@@ -1,0 +1,6 @@
+{
+  "name": "SIF-Guard | Precursor Intelligence",
+  "description": "Explainable AI/NLP platform for first-level screening of free-text safety reports for Serious Injury/Fatality (SIF) precursor potential.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
