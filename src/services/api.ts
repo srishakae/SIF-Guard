@@ -1,6 +1,6 @@
 import { AnalyzedReport, RawAnalysisResponse } from "../types";
 
-let customBackendUrl: string | null = null;
+let customBackendUrl: string | null = "https://sif-guard-backend.onrender.com/api/v1/analyze";
 
 export function setCustomBackendUrl(url: string | null) {
   customBackendUrl = url && url.trim() ? url.trim() : null;
